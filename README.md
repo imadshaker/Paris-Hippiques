@@ -1,4 +1,4 @@
-# Indenteur Pseudocode
+# Paris Hippiques
 
 # Description du project
 
@@ -12,5 +12,4 @@ Le projet est un logiciel permettant de placer des paris sur des courses hippiqu
 
 ## Utilisation
 * Ouvrir le projet dans votre IDE
-* Build et exécuter le projet à partir de la classe "IndenteurPseudocode.java"
-* Choisissez le fichier à indenter ou utiliser l'un des fichiers se trouvant déjà à la racine du projet.
+* Build et exécuter le projet à partir de la classe "ParisHippiques.java"
