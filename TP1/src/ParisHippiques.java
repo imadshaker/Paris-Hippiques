@@ -1,7 +1,6 @@
 /**
  * Cette classe représente une simulation des paris hippiques
- * @author Imad Shaker Bouarfa
- * Code permanent: BOUI24039303
+ * @author Imad Bouarfa Shaker
  * Courriel: bouarfa.imad@courrier.uqam.ca
  * Cours: INF1120-20
  * @version 2022-10-23
